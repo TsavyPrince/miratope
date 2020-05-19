@@ -1,2 +1,2 @@
-# tacochoron
-A renderer for polytopes.
+# miratope
+A renderer for polytopes. Known internally as Tacochoron.
